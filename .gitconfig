@@ -1,0 +1,10 @@
+[user]
+	email = jacob@algorithmjunkie.com
+	name = simpleauthority
+	signingkey = BE398E858C43FC84E34C5B02D5677A2921F8E4BA
+[commit]
+	gpgsign = true
+[pull]
+	rebase = false
+[init]
+	defaultBranch = main
